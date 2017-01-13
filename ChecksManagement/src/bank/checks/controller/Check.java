@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * @author ouiminga
  *
- */
+ */   
 public class Check {
 	public static int nbrInstanceOfChecks = 0;
 
@@ -17,7 +17,7 @@ public class Check {
 
 	long amount = 0;
 	long accountHolderAccountNumber = 0;
-int dd;
+	
 	String amountInLetters = "";
 	String nameOfRecipient = "";
 	String nameOfOrder = "";
